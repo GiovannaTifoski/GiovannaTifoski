@@ -1,8 +1,8 @@
-##Olá! Seja Bem-vindo, eu sou a Giovanna Tifoski!
+## Olá! Seja Bem-Vindo! Eu sou a Giovanna Tifoski!
 
-💼 Estou trabalhando com suporte
-🧠 Estudando Java e Angular
-📫 Contate-me por e-mail: giovannatifoski@hotmail.com
+💼 Estou trabalhando com suporte<br>
+🧠 Estudando Java e Angular<br>
+📫 Contate-me por e-mail: giovannatifoski@hotmail.com<br>
 😊 Pronouns: she/her
 
 <div>
