@@ -4,7 +4,7 @@
 🧠 Estudando Java e Angular<br>
 📫 Contate-me por e-mail: giovannatifoski@hotmail.com<br>
 😊 Pronouns: she/her
-
+![
 <div>
     <a href="https://br.linkedin.com/in/giovanna-tifoski">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovannaTifoski&show_icons=true&theme=tokyonight">
@@ -15,3 +15,4 @@
     <a href="https://is.gd/nObJb3"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     
 </div>
+]
